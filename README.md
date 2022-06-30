@@ -10,7 +10,7 @@ To Demonstrate my ability to correct the HTML and CSS to create a functional web
 * CSS
 
 ## Website
-https://omardgreat.github.io/Module-1-Challenge-Omar-Daghesdtani-/
+https://omardgreat.github.io/Horiseon/
 
 ## Contribution
 Made with ❤️ by [Omar Daghestani]
